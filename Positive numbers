@@ -1,0 +1,17 @@
+>>> list1 = [12,-7,5,64,-14]
+>>> Print (list1)
+>>> del list1 [1]
+>>> Print (list1)
+>>> del list1 [3]
+>>> Print (list1)
+
+
+
+
+
+
+
+>>> list2 = [12,14,-95,3]
+>>> Print (list2)
+>>> del list2 [2]
+>>> Print (list2)
